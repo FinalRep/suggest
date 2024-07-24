@@ -411,11 +411,9 @@ lab0:
 		lab2:
 			for {
 				{
-					var c = env.ByteIndexForHop(-(2))
-					if int32(env.LimitBackward) > c || c > int32(env.Limit) {
+					if !env.Hop(-(2)) {
 						break lab2
 					}
-					env.Cursor = int(c)
 				}
 				if !env.SliceFrom("i") {
 					return false
@@ -932,11 +930,9 @@ lab0:
 		lab3:
 			for {
 				{
-					var c = env.ByteIndexForHop((3))
-					if int32(0) > c || c > int32(env.Limit) {
+					if !env.Hop((3)) {
 						break lab3
 					}
-					env.Cursor = int(c)
 				}
 				break lab2
 			}
