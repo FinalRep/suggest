@@ -1,6 +1,6 @@
 package suggest
 
-import "github.com/suggest-go/suggest/pkg/metric"
+import "github.com/finalrep/suggest/pkg/metric"
 
 // NGramIndex is the interface that provides the access to
 // approximate string search and autocomplete

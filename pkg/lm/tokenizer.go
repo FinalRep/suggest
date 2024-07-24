@@ -3,8 +3,8 @@ package lm
 import (
 	"strings"
 
-	"github.com/suggest-go/suggest/pkg/alphabet"
-	"github.com/suggest-go/suggest/pkg/analysis"
+	"github.com/finalrep/suggest/pkg/alphabet"
+	"github.com/finalrep/suggest/pkg/analysis"
 )
 
 // Token is a string with an assigned and thus identified meaning

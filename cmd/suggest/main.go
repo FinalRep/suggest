@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/suggest-go/suggest/cmd/suggest/cmd"
+	"github.com/finalrep/suggest/cmd/suggest/cmd"
 )
 
 func main() {

@@ -7,7 +7,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/suggest-go/suggest/pkg/alphabet"
+	"github.com/finalrep/suggest/pkg/alphabet"
 )
 
 // Config represents a configuration of a language model

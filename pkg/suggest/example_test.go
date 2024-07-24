@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/suggest-go/suggest/pkg/dictionary"
-	"github.com/suggest-go/suggest/pkg/metric"
-	"github.com/suggest-go/suggest/pkg/suggest"
+	"github.com/finalrep/suggest/pkg/dictionary"
+	"github.com/finalrep/suggest/pkg/metric"
+	"github.com/finalrep/suggest/pkg/suggest"
 )
 
 // This example demonstrates how to use this package.

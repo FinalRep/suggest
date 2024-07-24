@@ -5,8 +5,8 @@ import (
 	"io"
 	"unicode/utf8"
 
-	"github.com/suggest-go/suggest/pkg/alphabet"
-	"github.com/suggest-go/suggest/pkg/analysis"
+	"github.com/finalrep/suggest/pkg/alphabet"
+	"github.com/finalrep/suggest/pkg/analysis"
 )
 
 // Sentence is a sequence of tokens

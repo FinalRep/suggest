@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/suggest-go/suggest/pkg/lm"
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/lm"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 func init() {

@@ -3,7 +3,7 @@ package compression
 import (
 	"io"
 
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 // VBEncoder returns new instance of vbEnc that encodes posting list using

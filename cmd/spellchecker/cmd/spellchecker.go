@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/suggest-go/suggest/internal/spellchecker/api"
+	"github.com/finalrep/suggest/internal/spellchecker/api"
 	"log"
 
 	"github.com/spf13/cobra"

@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"errors"
 	"github.com/gorilla/mux"
-	httputil "github.com/suggest-go/suggest/internal/http"
-	"github.com/suggest-go/suggest/pkg/metric"
-	"github.com/suggest-go/suggest/pkg/suggest"
+	httputil "github.com/finalrep/suggest/internal/http"
+	"github.com/finalrep/suggest/pkg/metric"
+	"github.com/finalrep/suggest/pkg/suggest"
 	"net/http"
 )
 

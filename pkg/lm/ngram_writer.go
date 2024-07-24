@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 const (

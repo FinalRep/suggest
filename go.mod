@@ -1,4 +1,4 @@
-module github.com/suggest-go/suggest
+module github.com/finalrep/suggest
 
 go 1.13
 

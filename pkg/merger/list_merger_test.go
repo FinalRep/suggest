@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/suggest-go/suggest/pkg/utils"
+	"github.com/finalrep/suggest/pkg/utils"
 )
 
 func TestMergeOverlapOverflow(t *testing.T) {

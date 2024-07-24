@@ -6,8 +6,8 @@ import (
 	"math"
 	"sort"
 
-	"github.com/suggest-go/suggest/pkg/dictionary"
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/dictionary"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 // MPH represents minimal perfect hash function

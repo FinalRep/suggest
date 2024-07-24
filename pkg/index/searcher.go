@@ -3,7 +3,7 @@ package index
 import (
 	"fmt"
 
-	"github.com/suggest-go/suggest/pkg/merger"
+	"github.com/finalrep/suggest/pkg/merger"
 )
 
 // Searcher is responsible for searching

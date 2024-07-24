@@ -2,7 +2,7 @@
 package index
 
 import (
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 type (

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/suggest-go/suggest/cmd/spellchecker/cmd"
+	"github.com/finalrep/suggest/cmd/spellchecker/cmd"
 )
 
 func main() {

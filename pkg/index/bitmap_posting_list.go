@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/RoaringBitmap/roaring"
-	"github.com/suggest-go/suggest/pkg/merger"
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/merger"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 // bitmapPostingList is a bitmap PostingList implementation

@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/alldroll/cdb"
-	"github.com/suggest-go/suggest/pkg/utils"
+	"github.com/finalrep/suggest/pkg/utils"
 )
 
 // OpenCDBDictionary opens a dictionary from cdb file

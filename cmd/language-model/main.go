@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/suggest-go/suggest/cmd/language-model/cmd"
+	"github.com/finalrep/suggest/cmd/language-model/cmd"
 )
 
 func main() {

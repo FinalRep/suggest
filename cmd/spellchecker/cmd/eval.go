@@ -4,12 +4,12 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/spf13/cobra"
-	"github.com/suggest-go/suggest/internal/spellchecker/dep"
+	"github.com/finalrep/suggest/internal/spellchecker/dep"
 	"os"
 	"time"
 
-	"github.com/suggest-go/suggest/pkg/lm"
-	"github.com/suggest-go/suggest/pkg/suggest"
+	"github.com/finalrep/suggest/pkg/lm"
+	"github.com/finalrep/suggest/pkg/suggest"
 )
 
 var (

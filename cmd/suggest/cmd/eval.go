@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/suggest-go/suggest/pkg/metric"
-	"github.com/suggest-go/suggest/pkg/suggest"
+	"github.com/finalrep/suggest/pkg/metric"
+	"github.com/finalrep/suggest/pkg/suggest"
 
 	"github.com/spf13/cobra"
 )

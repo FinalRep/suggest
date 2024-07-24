@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/suggest-go/suggest/pkg/analysis"
-	"github.com/suggest-go/suggest/pkg/metric"
-	"github.com/suggest-go/suggest/pkg/utils"
+	"github.com/finalrep/suggest/pkg/analysis"
+	"github.com/finalrep/suggest/pkg/metric"
+	"github.com/finalrep/suggest/pkg/utils"
 
-	"github.com/suggest-go/suggest/pkg/index"
+	"github.com/finalrep/suggest/pkg/index"
 	"golang.org/x/sync/errgroup"
 )
 

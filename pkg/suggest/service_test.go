@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/suggest-go/suggest/pkg/metric"
+	"github.com/finalrep/suggest/pkg/metric"
 )
 
 func TestConcurrencyOnDisc(t *testing.T) {

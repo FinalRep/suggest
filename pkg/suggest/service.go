@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/suggest-go/suggest/pkg/dictionary"
+	"github.com/finalrep/suggest/pkg/dictionary"
 )
 
 // ResultItem represents element of top-k similar strings in dictionary for given query

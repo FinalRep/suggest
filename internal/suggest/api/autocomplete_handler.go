@@ -2,11 +2,11 @@ package api
 
 import (
 	"encoding/json"
-	httputil "github.com/suggest-go/suggest/internal/http"
+	httputil "github.com/finalrep/suggest/internal/http"
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/suggest-go/suggest/pkg/suggest"
+	"github.com/finalrep/suggest/pkg/suggest"
 )
 
 // autocompleteHandler is responsible for query autocomplete

@@ -3,11 +3,11 @@ package cmd
 import (
 	"bufio"
 	"fmt"
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/store"
 	"os"
 
 	"github.com/spf13/cobra"
-	"github.com/suggest-go/suggest/pkg/lm"
+	"github.com/finalrep/suggest/pkg/lm"
 )
 
 func init() {

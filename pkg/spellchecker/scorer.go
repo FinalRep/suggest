@@ -1,9 +1,9 @@
 package spellchecker
 
 import (
-	"github.com/suggest-go/suggest/pkg/lm"
-	"github.com/suggest-go/suggest/pkg/merger"
-	"github.com/suggest-go/suggest/pkg/suggest"
+	"github.com/finalrep/suggest/pkg/lm"
+	"github.com/finalrep/suggest/pkg/merger"
+	"github.com/finalrep/suggest/pkg/suggest"
 )
 
 // lmScorer implements the scorer interface

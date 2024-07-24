@@ -1,7 +1,7 @@
 package index
 
 import (
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 // PostingListContext is the entity that holds context information

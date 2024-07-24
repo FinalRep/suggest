@@ -1,8 +1,8 @@
 package suggest
 
 import (
-	"github.com/suggest-go/suggest/pkg/alphabet"
-	"github.com/suggest-go/suggest/pkg/analysis"
+	"github.com/finalrep/suggest/pkg/alphabet"
+	"github.com/finalrep/suggest/pkg/analysis"
 )
 
 // NewSuggestTokenizer creates a tokenizer for suggester service

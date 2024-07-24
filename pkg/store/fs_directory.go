@@ -6,7 +6,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/suggest-go/suggest/pkg/utils"
+	"github.com/finalrep/suggest/pkg/utils"
 )
 
 // fsDirectory is a implementation that stores index

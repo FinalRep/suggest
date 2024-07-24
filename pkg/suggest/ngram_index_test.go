@@ -7,9 +7,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/suggest-go/suggest/pkg/dictionary"
-	"github.com/suggest-go/suggest/pkg/index"
-	"github.com/suggest-go/suggest/pkg/metric"
+	"github.com/finalrep/suggest/pkg/dictionary"
+	"github.com/finalrep/suggest/pkg/index"
+	"github.com/finalrep/suggest/pkg/metric"
 )
 
 func TestSuggestAuto(t *testing.T) {

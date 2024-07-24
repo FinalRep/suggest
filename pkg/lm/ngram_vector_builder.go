@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"github.com/alldroll/rbtree"
-	"github.com/suggest-go/suggest/pkg/utils"
+	"github.com/finalrep/suggest/pkg/utils"
 )
 
 // NGramVectorBuilder is an entity that responses for building NGramVector

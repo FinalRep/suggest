@@ -2,7 +2,7 @@ package compression
 
 import (
 	"github.com/RoaringBitmap/roaring"
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 // BitmapEncoder returns new instance of bitmapEnc which compress the uint32 list with the roaring bitmap library

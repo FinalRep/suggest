@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/suggest-go/suggest/pkg/alphabet"
+	"github.com/finalrep/suggest/pkg/alphabet"
 )
 
 func TestTokenize(t *testing.T) {

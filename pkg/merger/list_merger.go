@@ -3,7 +3,7 @@
 // - Find the set of string ids that appear at least T times on the inverted lists, where T is a constant.
 package merger
 
-import "github.com/suggest-go/suggest/pkg/utils"
+import "github.com/finalrep/suggest/pkg/utils"
 
 // MaxOverlap is the largest value of an overlap count for a merge candidate
 const MaxOverlap = 0xFFFF

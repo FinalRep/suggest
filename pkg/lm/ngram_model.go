@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 // NGramModel is an entity that responses for scoring the given nGrams

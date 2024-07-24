@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/alldroll/rbtree"
-	"github.com/suggest-go/suggest/pkg/dictionary"
-	"github.com/suggest-go/suggest/pkg/mph"
-	"github.com/suggest-go/suggest/pkg/store"
+	"github.com/finalrep/suggest/pkg/dictionary"
+	"github.com/finalrep/suggest/pkg/mph"
+	"github.com/finalrep/suggest/pkg/store"
 )
 
 // StoreBinaryLMFromGoogleFormat creates a ngram language model from the google ngram format

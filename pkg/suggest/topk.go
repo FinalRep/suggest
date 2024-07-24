@@ -4,7 +4,7 @@ import (
 	"container/heap"
 	"math"
 
-	"github.com/suggest-go/suggest/pkg/index"
+	"github.com/finalrep/suggest/pkg/index"
 )
 
 // TopKQueue is an accumulator that selects the "top k" elements added to it
